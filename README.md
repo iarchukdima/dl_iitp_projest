@@ -5,3 +5,7 @@
 В статье Local-Global MCMC kernels: the best of both worlds прелагается чередовать локальные и глобальные шаги.
 
 В данной статье в качестве вспомогательного параметрического распределения используется NormFlows. Мы же хотим использовать Diffusion Model.
+
+![alt text](https://github.com/SharapovDenis/mcmc-repo/blob/master/img/A.png)
+![alt text](https://github.com/SharapovDenis/mcmc-repo/blob/master/img/B.png)
+![alt text](https://github.com/SharapovDenis/mcmc-repo/blob/master/img/C.png)
